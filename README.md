@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snehil1909
-- 👀 I’m interested in LLMs, Software Devlopment and Cricket
+- 👀 I’m interested in LLMs, Software Development and Cricket
 - 🌱 I’m currently working on Agentic AI platforms
 - 📫 Reach me on LinkedIn @www.linkedin.com/in/snehil-jaiswal-507b1a256
 - 😄 Pronouns: He/Him
